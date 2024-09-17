@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "title": "The Immortals of Meluha",
+            "author": "Amish Tripathi",
+            "genre": "Mythology"
+        },
+        {
+            "title": "Palace of Illusions",
+            "author": "Chitra Banerjee Divakaruni",
+            "genre": "Mythology"
+        },
+        {
+            "title": "Jaya: An Illustrated Retelling of the Mahabharata",
+            "author": "Devdutt Pattanaik",
+            "genre": "Mythology"
+        },
+        {
+            "title": "Sita: An Illustrated Retelling of the Ramayana",
+            "author": "Devdutt Pattanaik",
+            "genre": "Mythology"
+        },
+        {
+            "title": "Asura: Tale of the Vanquished",
+            "author": "Anand Neelakantan",
+            "genre": "Mythology"
+        },
+        {
+            "title": "",
+            "author": "",
+            "genre": ""
+        }
+    ],
+    "ratings": {
+        "nikhil": {
+            "Palace of Illusions": 4,
+            "Asura: Tale of the Vanquished": 4
+        },
+        "varma": {
+            "The Immortals of Meluha": 3,
+            "": 1
+        }
+    }
+}

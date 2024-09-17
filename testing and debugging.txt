@@ -1,0 +1,284 @@
+PS C:\miracle intern\Book Recommendation System> py -u "c:\miracle intern\Book Recommendation System\bookrecommendation.py"
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 1
+Enter book title: The Immortals of Meluha
+Enter book author: Amish Tripathi
+Enter book genre: Mythology
+Book 'The Immortals of Meluha' added successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 1
+Enter book title: Palace of Illusions
+Enter book author: Chitra Banerjee Divakaruni
+Enter book genre: Mythology
+Book 'Palace of Illusions' added successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 1
+Enter book title: Jaya: An Illustrated Retelling of the Mahabharata
+Enter book author: Devdutt Pattanaik
+Enter book genre: Mythology
+Book 'Jaya: An Illustrated Retelling of the Mahabharata' added successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: Sita: An Illustrated Retelling of the Ramayana
+Invalid option. Please try again.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 1
+Enter book title: Sita: An Illustrated Retelling of the Ramayana
+Enter book author: Devdutt Pattanaik
+Enter book genre: Mythology
+Book 'Sita: An Illustrated Retelling of the Ramayana' added successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 1
+Enter book title: Asura: Tale of the Vanquished
+Enter book author: Anand Neelakantan
+Enter book genre: Mythology
+Book 'Asura: Tale of the Vanquished' added successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 2
+1. Title: The Immortals of Meluha, Author: Amish Tripathi, Genre: Mythology
+2. Title: Palace of Illusions, Author: Chitra Banerjee Divakaruni, Genre: Mythology
+3. Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+4. Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+5. Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 3
+Enter your username: nikhil
+1. Title: The Immortals of Meluha, Author: Amish Tripathi, Genre: Mythology
+2. Title: Palace of Illusions, Author: Chitra Banerjee Divakaruni, Genre: Mythology
+3. Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+4. Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+5. Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+Select a book number to rate: 2
+Enter your rating (1-5): 4.5
+Traceback (most recent call last):
+  File "c:\miracle intern\Book Recommendation System\bookrecommendation.py", line 159, in <module>
+    main()
+  File "c:\miracle intern\Book Recommendation System\bookrecommendation.py", line 137, in main 
+    rating = int(input("Enter your rating (1-5): "))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '4.5'
+PS C:\miracle intern\Book Recommendation System> py -u "c:\miracle intern\Book Recommendation System\bookrecommendation.py"
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 2
+1. Title: The Immortals of Meluha, Author: Amish Tripathi, Genre: Mythology
+2. Title: Palace of Illusions, Author: Chitra Banerjee Divakaruni, Genre: Mythology
+3. Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+4. Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+5. Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 3
+Enter your username: nikhil
+1. Title: The Immortals of Meluha, Author: Amish Tripathi, Genre: Mythology
+2. Title: Palace of Illusions, Author: Chitra Banerjee Divakaruni, Genre: Mythology
+3. Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+4. Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+5. Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+Select a book number to rate: 2
+Enter your rating (1-5): 4
+Rating for 'Palace of Illusions' saved successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 3    
+Enter your username: varma
+1. Title: The Immortals of Meluha, Author: Amish Tripathi, Genre: Mythology
+2. Title: Palace of Illusions, Author: Chitra Banerjee Divakaruni, Genre: Mythology
+3. Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+4. Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+5. Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+Select a book number to rate: 1
+Enter your rating (1-5): 3
+Rating for 'The Immortals of Meluha' saved successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 3 
+Enter your username: nikhil
+1. Title: The Immortals of Meluha, Author: Amish Tripathi, Genre: Mythology
+2. Title: Palace of Illusions, Author: Chitra Banerjee Divakaruni, Genre: Mythology
+3. Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+4. Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+5. Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+Select a book number to rate: 5
+Enter your rating (1-5): 4
+Rating for 'Asura: Tale of the Vanquished' saved successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: varma
+Invalid option. Please try again.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 1
+Enter book title:
+Enter book author:
+Enter book genre:
+Book '' added successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 3
+Enter your username: varma
+1. Title: The Immortals of Meluha, Author: Amish Tripathi, Genre: Mythology
+2. Title: Palace of Illusions, Author: Chitra Banerjee Divakaruni, Genre: Mythology
+3. Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+4. Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+5. Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+6. Title: , Author: , Genre:
+Select a book number to rate: 6
+Enter your rating (1-5): 1
+Rating for '' saved successfully.
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 4
+Enter your username: nikhil
+Title: The Immortals of Meluha, Author: Amish Tripathi, Genre: Mythology
+Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 4
+Enter your username: varma
+Title: Palace of Illusions, Author: Chitra Banerjee Divakaruni, Genre: Mythology
+Title: Jaya: An Illustrated Retelling of the Mahabharata, Author: Devdutt Pattanaik, Genre: Mythology
+Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 5
+Enter book title prefix to search: sita
+Title: Sita: An Illustrated Retelling of the Ramayana, Author: Devdutt Pattanaik, Genre: Mythology
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 5
+Enter book title prefix to search: asura
+Title: Asura: Tale of the Vanquished, Author: Anand Neelakantan, Genre: Mythology
+
+Options:
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Choose an option: 6 
+Exiting...
